@@ -5,7 +5,7 @@ import AboutContent from "../../content/AboutContent.json";
 import ContactContent from "../../content/ContactContent.json";
 import {
   StyledContainer
-} from './styles'; // Adjust the path as needed
+} from './styles'
 
 
 
